@@ -1,0 +1,11 @@
+C:\Users\jailson.santos\Documents\Projects\Blazor\LivrariaBlazor\LivrariaBlazor.Domain\bin\Debug\net8.0\LivrariaBlazor.Domain.deps.json
+C:\Users\jailson.santos\Documents\Projects\Blazor\LivrariaBlazor\LivrariaBlazor.Domain\bin\Debug\net8.0\LivrariaBlazor.Domain.dll
+C:\Users\jailson.santos\Documents\Projects\Blazor\LivrariaBlazor\LivrariaBlazor.Domain\bin\Debug\net8.0\LivrariaBlazor.Domain.pdb
+C:\Users\jailson.santos\Documents\Projects\Blazor\LivrariaBlazor\LivrariaBlazor.Domain\obj\Debug\net8.0\LivrariaBlazor.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jailson.santos\Documents\Projects\Blazor\LivrariaBlazor\LivrariaBlazor.Domain\obj\Debug\net8.0\LivrariaBlazor.Domain.AssemblyInfoInputs.cache
+C:\Users\jailson.santos\Documents\Projects\Blazor\LivrariaBlazor\LivrariaBlazor.Domain\obj\Debug\net8.0\LivrariaBlazor.Domain.AssemblyInfo.cs
+C:\Users\jailson.santos\Documents\Projects\Blazor\LivrariaBlazor\LivrariaBlazor.Domain\obj\Debug\net8.0\LivrariaBlazor.Domain.csproj.CoreCompileInputs.cache
+C:\Users\jailson.santos\Documents\Projects\Blazor\LivrariaBlazor\LivrariaBlazor.Domain\obj\Debug\net8.0\LivrariaBlazor.Domain.dll
+C:\Users\jailson.santos\Documents\Projects\Blazor\LivrariaBlazor\LivrariaBlazor.Domain\obj\Debug\net8.0\refint\LivrariaBlazor.Domain.dll
+C:\Users\jailson.santos\Documents\Projects\Blazor\LivrariaBlazor\LivrariaBlazor.Domain\obj\Debug\net8.0\LivrariaBlazor.Domain.pdb
+C:\Users\jailson.santos\Documents\Projects\Blazor\LivrariaBlazor\LivrariaBlazor.Domain\obj\Debug\net8.0\ref\LivrariaBlazor.Domain.dll

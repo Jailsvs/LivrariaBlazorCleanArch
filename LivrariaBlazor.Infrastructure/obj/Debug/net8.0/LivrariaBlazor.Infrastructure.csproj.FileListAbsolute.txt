@@ -1,0 +1,17 @@
+C:\Users\jailson.santos\Documents\Projects\Blazor\LivrariaBlazor\LivrariaBlazor.Infrastructure\bin\Debug\net8.0\LivrariaBlazor.Infrastructure.deps.json
+C:\Users\jailson.santos\Documents\Projects\Blazor\LivrariaBlazor\LivrariaBlazor.Infrastructure\bin\Debug\net8.0\LivrariaBlazor.Infrastructure.runtimeconfig.json
+C:\Users\jailson.santos\Documents\Projects\Blazor\LivrariaBlazor\LivrariaBlazor.Infrastructure\bin\Debug\net8.0\LivrariaBlazor.Infrastructure.dll
+C:\Users\jailson.santos\Documents\Projects\Blazor\LivrariaBlazor\LivrariaBlazor.Infrastructure\bin\Debug\net8.0\LivrariaBlazor.Infrastructure.pdb
+C:\Users\jailson.santos\Documents\Projects\Blazor\LivrariaBlazor\LivrariaBlazor.Infrastructure\bin\Debug\net8.0\LivrariaBlazor.Domain.dll
+C:\Users\jailson.santos\Documents\Projects\Blazor\LivrariaBlazor\LivrariaBlazor.Infrastructure\bin\Debug\net8.0\LivrariaBlazor.Domain.pdb
+C:\Users\jailson.santos\Documents\Projects\Blazor\LivrariaBlazor\LivrariaBlazor.Infrastructure\obj\Debug\net8.0\LivrariaBlazor.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\jailson.santos\Documents\Projects\Blazor\LivrariaBlazor\LivrariaBlazor.Infrastructure\obj\Debug\net8.0\LivrariaBlazor.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jailson.santos\Documents\Projects\Blazor\LivrariaBlazor\LivrariaBlazor.Infrastructure\obj\Debug\net8.0\LivrariaBlazor.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\jailson.santos\Documents\Projects\Blazor\LivrariaBlazor\LivrariaBlazor.Infrastructure\obj\Debug\net8.0\LivrariaBlazor.Infrastructure.AssemblyInfo.cs
+C:\Users\jailson.santos\Documents\Projects\Blazor\LivrariaBlazor\LivrariaBlazor.Infrastructure\obj\Debug\net8.0\LivrariaBlazor.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\jailson.santos\Documents\Projects\Blazor\LivrariaBlazor\LivrariaBlazor.Infrastructure\obj\Debug\net8.0\Livraria.5725DE38.Up2Date
+C:\Users\jailson.santos\Documents\Projects\Blazor\LivrariaBlazor\LivrariaBlazor.Infrastructure\obj\Debug\net8.0\LivrariaBlazor.Infrastructure.dll
+C:\Users\jailson.santos\Documents\Projects\Blazor\LivrariaBlazor\LivrariaBlazor.Infrastructure\obj\Debug\net8.0\refint\LivrariaBlazor.Infrastructure.dll
+C:\Users\jailson.santos\Documents\Projects\Blazor\LivrariaBlazor\LivrariaBlazor.Infrastructure\obj\Debug\net8.0\LivrariaBlazor.Infrastructure.pdb
+C:\Users\jailson.santos\Documents\Projects\Blazor\LivrariaBlazor\LivrariaBlazor.Infrastructure\obj\Debug\net8.0\LivrariaBlazor.Infrastructure.genruntimeconfig.cache
+C:\Users\jailson.santos\Documents\Projects\Blazor\LivrariaBlazor\LivrariaBlazor.Infrastructure\obj\Debug\net8.0\ref\LivrariaBlazor.Infrastructure.dll

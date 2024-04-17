@@ -1,0 +1,15 @@
+C:\Users\jailson.santos\Documents\Projects\Blazor\LivrariaBlazor\LivrariaBlazor.Application\bin\Debug\net8.0\LivrariaBlazor.Application.deps.json
+C:\Users\jailson.santos\Documents\Projects\Blazor\LivrariaBlazor\LivrariaBlazor.Application\bin\Debug\net8.0\LivrariaBlazor.Application.dll
+C:\Users\jailson.santos\Documents\Projects\Blazor\LivrariaBlazor\LivrariaBlazor.Application\bin\Debug\net8.0\LivrariaBlazor.Application.pdb
+C:\Users\jailson.santos\Documents\Projects\Blazor\LivrariaBlazor\LivrariaBlazor.Application\bin\Debug\net8.0\LivrariaBlazor.Domain.dll
+C:\Users\jailson.santos\Documents\Projects\Blazor\LivrariaBlazor\LivrariaBlazor.Application\bin\Debug\net8.0\LivrariaBlazor.Domain.pdb
+C:\Users\jailson.santos\Documents\Projects\Blazor\LivrariaBlazor\LivrariaBlazor.Application\obj\Debug\net8.0\LivrariaBlazor.Application.csproj.AssemblyReference.cache
+C:\Users\jailson.santos\Documents\Projects\Blazor\LivrariaBlazor\LivrariaBlazor.Application\obj\Debug\net8.0\LivrariaBlazor.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jailson.santos\Documents\Projects\Blazor\LivrariaBlazor\LivrariaBlazor.Application\obj\Debug\net8.0\LivrariaBlazor.Application.AssemblyInfoInputs.cache
+C:\Users\jailson.santos\Documents\Projects\Blazor\LivrariaBlazor\LivrariaBlazor.Application\obj\Debug\net8.0\LivrariaBlazor.Application.AssemblyInfo.cs
+C:\Users\jailson.santos\Documents\Projects\Blazor\LivrariaBlazor\LivrariaBlazor.Application\obj\Debug\net8.0\LivrariaBlazor.Application.csproj.CoreCompileInputs.cache
+C:\Users\jailson.santos\Documents\Projects\Blazor\LivrariaBlazor\LivrariaBlazor.Application\obj\Debug\net8.0\Livraria.4BC41A01.Up2Date
+C:\Users\jailson.santos\Documents\Projects\Blazor\LivrariaBlazor\LivrariaBlazor.Application\obj\Debug\net8.0\LivrariaBlazor.Application.dll
+C:\Users\jailson.santos\Documents\Projects\Blazor\LivrariaBlazor\LivrariaBlazor.Application\obj\Debug\net8.0\refint\LivrariaBlazor.Application.dll
+C:\Users\jailson.santos\Documents\Projects\Blazor\LivrariaBlazor\LivrariaBlazor.Application\obj\Debug\net8.0\LivrariaBlazor.Application.pdb
+C:\Users\jailson.santos\Documents\Projects\Blazor\LivrariaBlazor\LivrariaBlazor.Application\obj\Debug\net8.0\ref\LivrariaBlazor.Application.dll

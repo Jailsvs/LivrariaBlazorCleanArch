@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "LivrariaBlazor.Application/1.0.0": {
+        "dependencies": {
+          "LivrariaBlazor.Domain": "1.0.0"
+        },
+        "runtime": {
+          "LivrariaBlazor.Application.dll": {}
+        }
+      },
+      "LivrariaBlazor.Domain/1.0.0": {
+        "runtime": {
+          "LivrariaBlazor.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LivrariaBlazor.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "LivrariaBlazor.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
